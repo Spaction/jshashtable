@@ -18,5 +18,6 @@
     "hashmap"
     "hastable",
     "hashset"
-  ]
+  ],
+  "dependencies": {},
 }
