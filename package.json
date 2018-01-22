@@ -12,10 +12,6 @@
     "email": "tim@timdown.co.uk"
   },
   "homepage": "http://www.timdown.co.uk/jshashtable/",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/timdown/jshashtable.git"
-  },
   "keywords": [
     "javascript",
     "hash",
