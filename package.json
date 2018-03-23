@@ -4,9 +4,6 @@
   "version": "3.0",
   "main":"hashtable.js",
   "license": "Apache-2.0",
-  "author": [
-    "name": "Tim Down",
-    "email": "tim@timdown.co.uk"
-  ],
+  "author": "Tim Down",
   "homepage": "http://www.timdown.co.uk/jshashtable/",
 }
