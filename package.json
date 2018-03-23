@@ -1,5 +1,5 @@
 {
-  "name": "jshashtable.js",
+  "name": "jshashtable",
   "description": "A standalone JavaScript implementation of hash table with arbitrary keys",
   "version": "3.0",
   "main":"hashtable.js",
